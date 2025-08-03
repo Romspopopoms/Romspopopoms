@@ -40,10 +40,10 @@ Je conçois des solutions SaaS sécurisées, scalables et modernes depuis trois 
 
 ## 🛠️ Compétences techniques
 
-- **Langages & frameworks** : JavaScript ES6+, Node.js, React.js, Next.js, PHP (notions), Dart (notions).
+- **Langages & frameworks** : JavaScript ES6+, Node.js, React.js, Next.js, Typescript, PHP (notions), Dart (notions).
 - **Bases de données** : PostgreSQL, SQLite, MongoDB.
 - **Front‑end** : HTML5, CSS3, Tailwind CSS, React Native.
-- **Back‑end** : API REST, Prisma, authentification JWT.
+- **Back‑end** : API REST, Prisma, authentification JWT, sécurité des apps.
 - **Cloud & outils** : AWS S3, Git, GitHub, CI/CD (GitHub Actions).
 - **Autres** : intégration de chatbots et IA, génération d’images, SEO automatisé.
 
